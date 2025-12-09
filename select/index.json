@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "花ハ踊レヤいろはにほ",
+  "base_artist": "チーム“ハナヤマタ”",
+  "createdAt": "2025-12-09T13:33:40.862457Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ feat.猫体質+YURiE(カバー)",
+      "artist": "Flash back Dominant",
+      "has_synced": false,
+      "path": "select/01_花ハ踊レヤいろはにほ_feat.猫体質+YURiE(カバー)_Flash_back_Dominant.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ",
+      "artist": "チーム\"ハナヤマタ\"",
+      "has_synced": true,
+      "path": "select/02_花ハ踊レヤいろはにほ_チーム_ハナヤマタ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ",
+      "artist": "チーム・ハナヤマタ",
+      "has_synced": true,
+      "path": "select/03_花ハ踊レヤいろはにほ_チーム・ハナヤマタ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ",
+      "artist": "チーム“ハナヤマタ”",
+      "has_synced": true,
+      "path": "select/04_花ハ踊レヤいろはにほ_チーム“ハナヤマタ”.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ - TVsize",
+      "artist": "チーム“ハナヤマタ”",
+      "has_synced": false,
+      "path": "select/05_花ハ踊レヤいろはにほ_-_TVsize_チーム“ハナヤマタ”.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ",
+      "artist": "チーム“ハナヤマタ”",
+      "has_synced": true,
+      "path": "select/06_花ハ踊レヤいろはにほ_チーム“ハナヤマタ”.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ(TVsize)",
+      "artist": "チーム”ハナヤマタ”",
+      "has_synced": false,
+      "path": "select/07_花ハ踊レヤいろはにほ(TVsize)_チーム”ハナヤマタ”.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ",
+      "artist": "チーム\"ハナヤマタ\"",
+      "has_synced": true,
+      "path": "select/08_花ハ踊レヤいろはにほ_チーム_ハナヤマタ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ～なる Ver.",
+      "artist": "上田麗奈",
+      "has_synced": false,
+      "path": "select/09_花ハ踊レヤいろはにほ~なる_Ver._上田麗奈.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ",
+      "artist": "チーム”ハナヤマタ”",
+      "has_synced": false,
+      "path": "select/10_花ハ踊レヤいろはにほ_チーム”ハナヤマタ”.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ",
+      "artist": "ハナヤマタ",
+      "has_synced": true,
+      "path": "select/11_花ハ踊レヤいろはにほ_ハナヤマタ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ～ハナ Ver.",
+      "artist": "ハナヤマタ",
+      "has_synced": true,
+      "path": "select/12_花ハ踊レヤいろはにほ~ハナ_Ver._ハナヤマタ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "花ハ踊レヤいろはにほ～ハナ Version",
+      "artist": "田中美海",
+      "has_synced": true,
+      "path": "select/13_花ハ踊レヤいろはにほ~ハナ_Version_田中美海.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花ハ踊レヤいろはにほ",
+      "artist": "チーム\"ハナヤマタ\"",
+      "has_synced": false,
+      "path": "select/pl_01_花ハ踊レヤいろはにほ_チーム_ハナヤマタ.txt"
+    }
+  ]
+}
